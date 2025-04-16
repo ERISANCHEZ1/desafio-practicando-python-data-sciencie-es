@@ -1,6 +1,6 @@
 # desafio-practicando-python-data-sciencie-es
 
-# 📋 Nombre del Proyecto: Challenge Amigo secreto
+# 📋 Nombre del Proyecto: desafio-practicando-python-data-sciencie-es
 Es una aplicación que permite realizar el analisis de unos datos entregados por el usuario, basados en puntos claves que se deben tener en cuenta para indicarle al señor Juan cual es la mejor decisión
 
 🚀 Características:
